@@ -5,6 +5,8 @@ implemented POS tagger using Viterbi algorithm.
 
 # performance/accuracy of the model
 
+perplexity measurement for diff. Unigram, Bigram and Trigram model. 
 https://cloud.githubusercontent.com/assets/9404205/20698652/956adefa-b628-11e6-8350-af3f44fc64ea.PNG
 
+Accuracy of Part of Speech(POS) tagger, evaluated on Brown corpus.
 https://cloud.githubusercontent.com/assets/9404205/20698754/35db8902-b629-11e6-8ecc-80c6d78c66cf.PNG
