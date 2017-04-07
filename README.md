@@ -13,7 +13,7 @@ https://cloud.githubusercontent.com/assets/9404205/20698754/35db8902-b629-11e6-8
 
 
 This is the result I got with my implementation of the Viterbi algorithm:
-### Percent correct tags: 91.6848750171
+#### Percent correct tags: 91.6848750171
 
 This is the accuracy that I got with NLTK’s tagger accuracy (implemented using back off):
-### Percent correct tags: 86.7918775773
+#### Percent correct tags: 86.7918775773
