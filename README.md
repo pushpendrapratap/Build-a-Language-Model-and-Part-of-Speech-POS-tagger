@@ -12,8 +12,6 @@ Accuracy of Part of Speech(POS) tagger, evaluated on Brown corpus.
 https://cloud.githubusercontent.com/assets/9404205/20698754/35db8902-b629-11e6-8ecc-80c6d78c66cf.PNG
 
 
-This is the result I got with my implementation of the Viterbi algorithm:
-#### Percent correct tags: 91.6848750171
+This is the result I got with my implementation of the Viterbi algorithm: #### Percent correct tags: 91.6848750171
 
-This is the accuracy that I got with NLTK’s tagger accuracy (implemented using back off):
-#### Percent correct tags: 86.7918775773
+This is the accuracy that I got with NLTK’s tagger accuracy (implemented using back off): #### Percent correct tags: 86.7918775773
